@@ -1,0 +1,8 @@
+<div class="weatherPage">
+	<h3 ng-if="!ready">Loading...</h3>
+	<div ng-if="ready">
+		<h1>{{degree}} C</h1>
+		<h2>{{weather.main}}</h2>
+		<h4>{{weather.description}}</h4>
+	</div>
+</div>

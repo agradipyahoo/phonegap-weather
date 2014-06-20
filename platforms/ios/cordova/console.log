@@ -1,0 +1,507 @@
+objc[15561]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 20:45:02.759 HelloWorld[15561:70b] Cannot find executable for CFBundle 0xb88dac0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 20:45:02.763 HelloWorld[15561:70b] Cannot find executable for CFBundle 0xb8af630 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 20:45:02.784 HelloWorld[15561:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 20:45:02.790 HelloWorld[15561:70b] Unlimited access to network resources
+2014-06-19 20:45:02.792 HelloWorld[15561:70b] Fix applied for database locations?: YES
+2014-06-19 20:45:02.792 HelloWorld[15561:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 20:45:02.845 HelloWorld[15561:70b] Resetting plugins due to page load.
+2014-06-19 20:45:02.878 HelloWorld[15561:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3F485457-C270-4D28-9CDB-77562F998730/HelloWorld.app/www/index.html
+objc[15702]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 20:45:09.277 HelloWorld[15702:70b] Cannot find executable for CFBundle 0xa2390f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 20:45:09.280 HelloWorld[15702:70b] Cannot find executable for CFBundle 0xda0fb20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 20:45:09.321 HelloWorld[15702:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 20:45:09.327 HelloWorld[15702:70b] Unlimited access to network resources
+2014-06-19 20:45:09.328 HelloWorld[15702:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 20:45:09.400 HelloWorld[15702:70b] Resetting plugins due to page load.
+2014-06-19 20:45:09.433 HelloWorld[15702:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3F485457-C270-4D28-9CDB-77562F998730/HelloWorld.app/www/index.html
+objc[19185]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 20:48:36.826 HelloWorld[19185:70b] Cannot find executable for CFBundle 0xa478d20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 20:48:36.833 HelloWorld[19185:70b] Cannot find executable for CFBundle 0xa236150 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 20:48:36.915 HelloWorld[19185:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 20:48:36.922 HelloWorld[19185:70b] Unlimited access to network resources
+2014-06-19 20:48:36.925 HelloWorld[19185:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 20:48:37.099 HelloWorld[19185:70b] Resetting plugins due to page load.
+2014-06-19 20:48:37.137 HelloWorld[19185:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3F485457-C270-4D28-9CDB-77562F998730/HelloWorld.app/www/index.html
+objc[19327]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 20:49:03.029 HelloWorld[19327:70b] Cannot find executable for CFBundle 0xa5829d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 20:49:03.033 HelloWorld[19327:70b] Cannot find executable for CFBundle 0xa59d100 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 20:49:03.053 HelloWorld[19327:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 20:49:03.058 HelloWorld[19327:70b] Unlimited access to network resources
+2014-06-19 20:49:03.060 HelloWorld[19327:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 20:49:03.122 HelloWorld[19327:70b] Resetting plugins due to page load.
+2014-06-19 20:49:03.179 HelloWorld[19327:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3F485457-C270-4D28-9CDB-77562F998730/HelloWorld.app/www/index.html
+objc[19667]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 21:26:46.405 HelloWorld[19667:70b] Cannot find executable for CFBundle 0xc080f30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 21:26:46.409 HelloWorld[19667:70b] Cannot find executable for CFBundle 0xc0aff10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 21:26:46.430 HelloWorld[19667:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 21:26:46.436 HelloWorld[19667:70b] Unlimited access to network resources
+2014-06-19 21:26:46.438 HelloWorld[19667:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 21:26:46.487 HelloWorld[19667:70b] Resetting plugins due to page load.
+2014-06-19 21:26:46.526 HelloWorld[19667:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3F485457-C270-4D28-9CDB-77562F998730/HelloWorld.app/www/index.html
+objc[19961]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 21:43:59.152 Weather[19961:70b] Cannot find executable for CFBundle 0xa613110 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 21:43:59.161 Weather[19961:70b] Cannot find executable for CFBundle 0xa238fc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 21:43:59.163 Weather[19961:70b] Cannot find executable for CFBundle 0xa24ef90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 21:43:59.200 Weather[19961:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 21:43:59.208 Weather[19961:70b] Unlimited access to network resources
+2014-06-19 21:43:59.211 Weather[19961:70b] Fix applied for database locations?: YES
+2014-06-19 21:43:59.211 Weather[19961:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 21:43:59.374 Weather[19961:70b] Resetting plugins due to page load.
+2014-06-19 21:43:59.413 Weather[19961:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/43065273-5998-4E49-B843-764E703061D1/Weather.app/www/index.html
+objc[20337]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 21:51:26.136 Weather[20337:70b] Cannot find executable for CFBundle 0xa375a80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 21:51:26.145 Weather[20337:70b] Cannot find executable for CFBundle 0xbe635d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 21:51:26.148 Weather[20337:70b] Cannot find executable for CFBundle 0xa3869f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 21:51:26.177 Weather[20337:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 21:51:26.183 Weather[20337:70b] Unlimited access to network resources
+2014-06-19 21:51:26.185 Weather[20337:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 21:51:26.278 Weather[20337:70b] Resetting plugins due to page load.
+2014-06-19 21:51:26.327 Weather[20337:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/43065273-5998-4E49-B843-764E703061D1/Weather.app/www/index.html
+objc[20451]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 21:52:58.418 Weather[20451:70b] Cannot find executable for CFBundle 0xc166ba0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 21:52:58.427 Weather[20451:70b] Cannot find executable for CFBundle 0xc18fbb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 21:52:58.430 Weather[20451:70b] Cannot find executable for CFBundle 0xc1ae4e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 21:52:58.468 Weather[20451:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 21:52:58.473 Weather[20451:70b] Unlimited access to network resources
+2014-06-19 21:52:58.474 Weather[20451:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 21:52:58.560 Weather[20451:70b] Resetting plugins due to page load.
+2014-06-19 21:52:58.593 Weather[20451:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E3020FCF-2F62-43BD-93BD-5C751EE78A50/Weather.app/www/index.html
+objc[20558]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 21:53:06.135 Weather[20558:70b] Cannot find executable for CFBundle 0xa887380 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 21:53:06.152 Weather[20558:70b] Cannot find executable for CFBundle 0xa360ad0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 21:53:06.157 Weather[20558:70b] Cannot find executable for CFBundle 0xa39b8d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 21:53:06.214 Weather[20558:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 21:53:06.220 Weather[20558:70b] Unlimited access to network resources
+2014-06-19 21:53:06.223 Weather[20558:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 21:53:06.337 Weather[20558:70b] Resetting plugins due to page load.
+2014-06-19 21:53:06.382 Weather[20558:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E3020FCF-2F62-43BD-93BD-5C751EE78A50/Weather.app/www/index.html
+objc[21203]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 21:56:40.734 Weather[21203:70b] Cannot find executable for CFBundle 0xa3662f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 21:56:40.744 Weather[21203:70b] Cannot find executable for CFBundle 0xa27a300 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 21:56:40.747 Weather[21203:70b] Cannot find executable for CFBundle 0xc185e40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 21:56:40.786 Weather[21203:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 21:56:40.792 Weather[21203:70b] Unlimited access to network resources
+2014-06-19 21:56:40.794 Weather[21203:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 21:56:40.882 Weather[21203:70b] Resetting plugins due to page load.
+2014-06-19 21:56:40.930 Weather[21203:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C8987FFE-11E0-440D-AB81-C5B868BDA350/Weather.app/www/index.html
+objc[21318]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 21:58:16.042 Weather[21318:70b] Cannot find executable for CFBundle 0xa470af0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 21:58:16.053 Weather[21318:70b] Cannot find executable for CFBundle 0xc15f010 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 21:58:16.057 Weather[21318:70b] Cannot find executable for CFBundle 0xa262b70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 21:58:16.094 Weather[21318:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 21:58:16.099 Weather[21318:70b] Unlimited access to network resources
+2014-06-19 21:58:16.101 Weather[21318:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 21:58:16.175 Weather[21318:70b] Resetting plugins due to page load.
+2014-06-19 21:58:16.216 Weather[21318:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C8987FFE-11E0-440D-AB81-C5B868BDA350/Weather.app/www/index.html
+objc[21508]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 21:58:36.625 Weather[21508:70b] Cannot find executable for CFBundle 0xbc8cdf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 21:58:36.634 Weather[21508:70b] Cannot find executable for CFBundle 0xbcb4270 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 21:58:36.638 Weather[21508:70b] Cannot find executable for CFBundle 0xa47ced0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 21:58:36.676 Weather[21508:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 21:58:36.684 Weather[21508:70b] Unlimited access to network resources
+2014-06-19 21:58:36.686 Weather[21508:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 21:58:36.804 Weather[21508:70b] Resetting plugins due to page load.
+2014-06-19 21:58:36.839 Weather[21508:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/82156EEE-DFCC-420F-80CC-316C8FDE6FD3/Weather.app/www/index.html
+objc[21826]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:01:24.992 Weather[21826:70b] Cannot find executable for CFBundle 0xa693910 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:01:25.001 Weather[21826:70b] Cannot find executable for CFBundle 0xa6bba80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:01:25.005 Weather[21826:70b] Cannot find executable for CFBundle 0xa6d8110 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:01:25.047 Weather[21826:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:01:25.052 Weather[21826:70b] Unlimited access to network resources
+2014-06-19 22:01:25.054 Weather[21826:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:01:25.130 Weather[21826:70b] Resetting plugins due to page load.
+2014-06-19 22:01:25.169 Weather[21826:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/82156EEE-DFCC-420F-80CC-316C8FDE6FD3/Weather.app/www/index.html
+objc[22022]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:01:47.838 Weather[22022:70b] Cannot find executable for CFBundle 0xa234940 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:01:47.847 Weather[22022:70b] Cannot find executable for CFBundle 0xa434020 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:01:47.851 Weather[22022:70b] Cannot find executable for CFBundle 0xa73ae00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:01:47.887 Weather[22022:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:01:47.893 Weather[22022:70b] Unlimited access to network resources
+2014-06-19 22:01:47.895 Weather[22022:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:01:47.980 Weather[22022:70b] Resetting plugins due to page load.
+2014-06-19 22:01:48.011 Weather[22022:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/48AA43A7-F546-4C15-9E68-8F5576D070A7/Weather.app/www/index.html
+objc[22233]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:06:14.822 Weather[22233:70b] Cannot find executable for CFBundle 0xa278810 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:06:14.835 Weather[22233:70b] Cannot find executable for CFBundle 0xa47e8e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:06:14.839 Weather[22233:70b] Cannot find executable for CFBundle 0xa5894b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:06:14.878 Weather[22233:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:06:14.883 Weather[22233:70b] Unlimited access to network resources
+2014-06-19 22:06:14.885 Weather[22233:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:06:14.965 Weather[22233:70b] Resetting plugins due to page load.
+2014-06-19 22:06:15.007 Weather[22233:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/48AA43A7-F546-4C15-9E68-8F5576D070A7/Weather.app/www/index.html
+objc[22422]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:06:32.657 Weather[22422:70b] Cannot find executable for CFBundle 0xb953360 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:06:32.666 Weather[22422:70b] Cannot find executable for CFBundle 0xb97f8e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:06:32.670 Weather[22422:70b] Cannot find executable for CFBundle 0xb99fba0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:06:32.707 Weather[22422:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:06:32.713 Weather[22422:70b] Unlimited access to network resources
+2014-06-19 22:06:32.716 Weather[22422:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:06:32.833 Weather[22422:70b] Resetting plugins due to page load.
+2014-06-19 22:06:32.897 Weather[22422:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/647DB005-0019-444F-ACBD-5CD5176D153F/Weather.app/www/index.html
+objc[22638]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:12:46.467 Weather[22638:70b] Cannot find executable for CFBundle 0xa33ec70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:12:46.476 Weather[22638:70b] Cannot find executable for CFBundle 0xa53ed50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:12:46.479 Weather[22638:70b] Cannot find executable for CFBundle 0xa286660 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:12:46.504 Weather[22638:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:12:46.510 Weather[22638:70b] Unlimited access to network resources
+2014-06-19 22:12:46.512 Weather[22638:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:12:46.634 Weather[22638:70b] Resetting plugins due to page load.
+2014-06-19 22:12:46.678 Weather[22638:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AE05E7AA-80A3-4008-8EAB-E1D212F72329/Weather.app/www/index.html
+objc[22828]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:13:00.365 Weather[22828:70b] Cannot find executable for CFBundle 0xa69dba0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:13:00.374 Weather[22828:70b] Cannot find executable for CFBundle 0xa48f7b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:13:00.379 Weather[22828:70b] Cannot find executable for CFBundle 0xba97df0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:13:00.416 Weather[22828:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:13:00.421 Weather[22828:70b] Unlimited access to network resources
+2014-06-19 22:13:00.423 Weather[22828:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:13:00.506 Weather[22828:70b] Resetting plugins due to page load.
+2014-06-19 22:13:00.549 Weather[22828:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/45406CAA-2E69-4B24-8E29-A9CB3D27A29B/Weather.app/www/index.html
+objc[23019]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:13:52.393 Weather[23019:70b] Cannot find executable for CFBundle 0xc845eb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:13:52.402 Weather[23019:70b] Cannot find executable for CFBundle 0xa5873b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:13:52.405 Weather[23019:70b] Cannot find executable for CFBundle 0xa5ac540 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:13:52.443 Weather[23019:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:13:52.448 Weather[23019:70b] Unlimited access to network resources
+2014-06-19 22:13:52.450 Weather[23019:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:13:52.528 Weather[23019:70b] Resetting plugins due to page load.
+2014-06-19 22:13:52.561 Weather[23019:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/45406CAA-2E69-4B24-8E29-A9CB3D27A29B/Weather.app/www/index.html
+objc[23630]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:20:04.038 Weather[23630:70b] Cannot find executable for CFBundle 0xb963da0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:20:04.049 Weather[23630:70b] Cannot find executable for CFBundle 0xbb67550 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:20:04.053 Weather[23630:70b] Cannot find executable for CFBundle 0xb97e1e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:20:04.089 Weather[23630:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:20:04.095 Weather[23630:70b] Unlimited access to network resources
+2014-06-19 22:20:04.096 Weather[23630:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:20:04.176 Weather[23630:70b] Resetting plugins due to page load.
+2014-06-19 22:20:04.212 Weather[23630:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0CDE2296-BF1E-4BEF-80C4-261E6375191B/Weather.app/www/index.html
+objc[23819]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:20:23.512 Weather[23819:70b] Cannot find executable for CFBundle 0xef77ce0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:20:23.522 Weather[23819:70b] Cannot find executable for CFBundle 0xa5b0d20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:20:23.526 Weather[23819:70b] Cannot find executable for CFBundle 0xef96c00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:20:23.602 Weather[23819:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:20:23.608 Weather[23819:70b] Unlimited access to network resources
+2014-06-19 22:20:23.610 Weather[23819:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:20:23.758 Weather[23819:70b] Resetting plugins due to page load.
+2014-06-19 22:20:23.792 Weather[23819:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[24007]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:23:05.007 Weather[24007:70b] Cannot find executable for CFBundle 0xa561ac0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:23:05.017 Weather[24007:70b] Cannot find executable for CFBundle 0xa7089c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:23:05.020 Weather[24007:70b] Cannot find executable for CFBundle 0xa420920 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:23:05.041 Weather[24007:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:23:05.046 Weather[24007:70b] Unlimited access to network resources
+2014-06-19 22:23:05.048 Weather[24007:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:23:05.101 Weather[24007:70b] Resetting plugins due to page load.
+2014-06-19 22:23:05.127 Weather[24007:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[24261]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:26:28.107 Weather[24261:70b] Cannot find executable for CFBundle 0xa43b720 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:26:28.124 Weather[24261:70b] Cannot find executable for CFBundle 0xa64fec0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:26:28.128 Weather[24261:70b] Cannot find executable for CFBundle 0xa66a8c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:26:28.159 Weather[24261:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:26:28.164 Weather[24261:70b] Unlimited access to network resources
+2014-06-19 22:26:28.167 Weather[24261:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:26:28.251 Weather[24261:70b] Resetting plugins due to page load.
+2014-06-19 22:26:28.291 Weather[24261:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[24397]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:27:29.161 Weather[24397:70b] Cannot find executable for CFBundle 0xa260520 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:27:29.171 Weather[24397:70b] Cannot find executable for CFBundle 0xa33df50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:27:29.175 Weather[24397:70b] Cannot find executable for CFBundle 0xa35eb80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:27:29.218 Weather[24397:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:27:29.226 Weather[24397:70b] Unlimited access to network resources
+2014-06-19 22:27:29.228 Weather[24397:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:27:29.343 Weather[24397:70b] Resetting plugins due to page load.
+2014-06-19 22:27:29.379 Weather[24397:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[24735]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:38:10.298 Weather[24735:70b] Cannot find executable for CFBundle 0xa679350 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:38:10.307 Weather[24735:70b] Cannot find executable for CFBundle 0xa2662a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:38:10.310 Weather[24735:70b] Cannot find executable for CFBundle 0xa280fa0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:38:10.345 Weather[24735:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:38:10.350 Weather[24735:70b] Unlimited access to network resources
+2014-06-19 22:38:10.351 Weather[24735:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:38:10.458 Weather[24735:70b] Resetting plugins due to page load.
+2014-06-19 22:38:10.492 Weather[24735:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[24922]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:40:07.864 Weather[24922:70b] Cannot find executable for CFBundle 0xc2594f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:40:07.878 Weather[24922:70b] Cannot find executable for CFBundle 0xc271610 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:40:07.881 Weather[24922:70b] Cannot find executable for CFBundle 0xc28e840 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:40:07.920 Weather[24922:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:40:07.925 Weather[24922:70b] Unlimited access to network resources
+2014-06-19 22:40:07.927 Weather[24922:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:40:08.008 Weather[24922:70b] Resetting plugins due to page load.
+2014-06-19 22:40:08.032 Weather[24922:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[25223]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 22:50:10.647 Weather[25223:70b] Cannot find executable for CFBundle 0xc2ac4d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 22:50:10.658 Weather[25223:70b] Cannot find executable for CFBundle 0xc69fb30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 22:50:10.661 Weather[25223:70b] Cannot find executable for CFBundle 0xa2a7660 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 22:50:10.700 Weather[25223:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 22:50:10.706 Weather[25223:70b] Unlimited access to network resources
+2014-06-19 22:50:10.708 Weather[25223:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 22:50:10.802 Weather[25223:70b] Resetting plugins due to page load.
+2014-06-19 22:50:10.836 Weather[25223:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[25388]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 23:20:05.066 Weather[25388:70b] Cannot find executable for CFBundle 0xa4825c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 23:20:05.076 Weather[25388:70b] Cannot find executable for CFBundle 0xa26aaf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 23:20:05.078 Weather[25388:70b] Cannot find executable for CFBundle 0xa284890 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 23:20:05.101 Weather[25388:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 23:20:05.107 Weather[25388:70b] Unlimited access to network resources
+2014-06-19 23:20:05.109 Weather[25388:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 23:20:05.166 Weather[25388:70b] Resetting plugins due to page load.
+2014-06-19 23:20:05.194 Weather[25388:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[25512]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 23:21:53.080 Weather[25512:70b] Cannot find executable for CFBundle 0xa571bb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 23:21:53.088 Weather[25512:70b] Cannot find executable for CFBundle 0xa598840 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 23:21:53.092 Weather[25512:70b] Cannot find executable for CFBundle 0xa684540 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 23:21:53.113 Weather[25512:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 23:21:53.118 Weather[25512:70b] Unlimited access to network resources
+2014-06-19 23:21:53.119 Weather[25512:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 23:21:53.174 Weather[25512:70b] Resetting plugins due to page load.
+2014-06-19 23:21:53.203 Weather[25512:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[25650]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 23:23:28.233 Weather[25650:70b] Cannot find executable for CFBundle 0xa269320 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 23:23:28.242 Weather[25650:70b] Cannot find executable for CFBundle 0xa26b7a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 23:23:28.245 Weather[25650:70b] Cannot find executable for CFBundle 0xa2a9630 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 23:23:28.266 Weather[25650:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 23:23:28.271 Weather[25650:70b] Unlimited access to network resources
+2014-06-19 23:23:28.272 Weather[25650:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 23:23:28.325 Weather[25650:70b] Resetting plugins due to page load.
+2014-06-19 23:23:28.352 Weather[25650:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[25921]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 23:35:02.687 Weather[25921:70b] Cannot find executable for CFBundle 0xa3c0bb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 23:35:02.696 Weather[25921:70b] Cannot find executable for CFBundle 0xa285060 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 23:35:02.700 Weather[25921:70b] Cannot find executable for CFBundle 0xa595870 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 23:35:02.728 Weather[25921:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 23:35:02.733 Weather[25921:70b] Unlimited access to network resources
+2014-06-19 23:35:02.735 Weather[25921:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 23:35:02.877 Weather[25921:70b] Resetting plugins due to page load.
+2014-06-19 23:35:03.009 Weather[25921:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[26500]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-19 23:42:55.348 Weather[26500:70b] Cannot find executable for CFBundle 0xa3bb590 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-19 23:42:55.359 Weather[26500:70b] Cannot find executable for CFBundle 0xa478ef0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-19 23:42:55.363 Weather[26500:70b] Cannot find executable for CFBundle 0xa49c600 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-19 23:42:55.389 Weather[26500:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-19 23:42:55.395 Weather[26500:70b] Unlimited access to network resources
+2014-06-19 23:42:55.397 Weather[26500:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-19 23:42:55.478 Weather[26500:70b] Resetting plugins due to page load.
+2014-06-19 23:42:55.531 Weather[26500:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html
+objc[26708]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-20 00:01:30.966 Weather[26708:70b] Cannot find executable for CFBundle 0xa77d450 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-20 00:01:30.982 Weather[26708:70b] Cannot find executable for CFBundle 0xa64a610 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-20 00:01:30.987 Weather[26708:70b] Cannot find executable for CFBundle 0xa6646b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-20 00:01:31.019 Weather[26708:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-20 00:01:31.024 Weather[26708:70b] Unlimited access to network resources
+2014-06-20 00:01:31.026 Weather[26708:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-20 00:01:31.159 Weather[26708:70b] Resetting plugins due to page load.
+2014-06-20 00:01:31.222 Weather[26708:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html#/weather
+objc[26837]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-20 00:02:20.585 Weather[26837:70b] Cannot find executable for CFBundle 0xa764630 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/Weather.axbundle> (not loaded)
+2014-06-20 00:02:20.593 Weather[26837:70b] Cannot find executable for CFBundle 0xa78a320 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-20 00:02:20.597 Weather[26837:70b] Cannot find executable for CFBundle 0xa7a8fa0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-20 00:02:20.639 Weather[26837:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-20 00:02:20.644 Weather[26837:70b] Unlimited access to network resources
+2014-06-20 00:02:20.646 Weather[26837:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-20 00:02:20.736 Weather[26837:70b] Resetting plugins due to page load.
+2014-06-20 00:02:20.815 Weather[26837:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AF04B652-4CE4-4300-A2C4-FBE48886F211/Weather.app/www/index.html#/weather
