@@ -19,12 +19,17 @@
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
-    <icon height="57" src="www/img/icon-57.png" width="57" />
-    <icon height="72" src="www/img/icon-72.png" width="72" />
-    <icon height="114" src="www/img/icon-57-2x.png" width="114" />
-    <icon height="144" src="www/img/icon-72-2x.png" width="144" />
+    <feature name="Notification">
+        <param name="ios-package" value="CDVNotification" />
+    </feature>
+    <feature name="Geolocation">
+        <param name="ios-package" value="CDVLocation" />
+    </feature>
+    <feature name="Camera">
+        <param name="ios-package" value="CDVCamera" />
+    </feature>
     <name>Weather</name>
-    <description>Sample Weather App</description>
+    <description>Simple Weather App</description>
     <author email="fatih@moonit.com" href="http://moonit.com">MFYZ</author>
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />

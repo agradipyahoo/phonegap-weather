@@ -10,10 +10,6 @@ weatherApp.config(['$routeProvider', function($routeProvider) {
 			templateUrl: 'views/weather.html',
 			controller:  'WeatherController'
 		}).
-		when('/settings', {
-			templateUrl: 'views/settings.html',
-			controller:  'SettingsController'
-		}).
 		otherwise({
 			redirectTo: '/weather'
 		});

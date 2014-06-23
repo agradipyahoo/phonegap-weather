@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.weather" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Weather</name>
-    <description>Sample Weather App</description>
+    <description>Simple Weather App</description>
     <author email="fatih@moonit.com" href="http://moonit.com">MFYZ</author>
 
     <preference name="permissions" value="none" />
@@ -24,12 +24,6 @@
     <gap:plugin name="org.apache.cordova.dialogs" />
 
     <icon src="www/img/icon.png" />
-	<platform name="ios">
-		<icon width="57" height="57" src="www/img/icon-57.png" />
-		<icon width="72" height="72" src="www/img/icon-72.png" />
-		<icon width="114" height="114" src="www/img/icon-57-2x.png" />
-		<icon width="144" height="144" src="www/img/icon-72-2x.png" />
-	</platform>
 
     <access origin="*" />
 </widget>
