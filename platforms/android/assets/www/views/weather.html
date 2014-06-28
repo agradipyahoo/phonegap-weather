@@ -1,10 +1,43 @@
 <div class="weatherPage">
-	<h3 ng-if="!ready">Loading...</h3>
-	<div ng-if="ready">
-		<h1>{{degree}} C</h1>
-		<h2>{{weather.main}}</h2>
-		<h4>{{weather.description}}</h4>
-
-		<a ng-if="false" ng-href="#/playground">Playground</a>
+	<div class="loading" ng-if="!ready">
+		<div class="center">
+			<div class="indicator">
+				<img src="img/loading.svg" width="70" alt=""/>
+			</div>
+		</div>
+		<a class="rety_button" ng-href="#" ng-click="refreshWeather()"><img src="img/reload.svg" width="20" alt="" align="absmiddle"/> Retry</a>
 	</div>
+	<div ng-if="ready">
+		<div class="content">
+			<img ng-src="img/weather/{{icon}}.svg" width="70%" alt=""/>
+			<h1 class="temp">
+				{{model.metric == 'C' ? celsius : fahrenheit}}<sup class="lbl">&deg;{{model.metric}}</sup>
+			</h1>
+			<h2 class="desc">{{weather.description}}</h2>
+			<h4 ng-if="location_name && location_name !== 'Earth'">{{location_name}}</h4>
+		</div>
+
+		<div class="toolbar">
+			<a ng-href="#" ng-click="refreshWeather()"><img src="img/reload.svg" width="35" alt=""/></a>
+			<a ng-href="#" ng-click="model.show_settings = true"><img src="img/gear.svg" width="35" alt=""/></a>
+		</div>
+	</div>
+</div>
+<div class="modal {{model.show_settings ? 'show' : ''}}">
+	<div class="modal-content">
+		<h3>
+			Settings
+			<a class="close_button" ng-href="#" ng-click="model.show_settings = false">&times;</a>
+		</h3>
+		<div>
+			<p>
+				<a ng-href="#" class="btn block" ng-click="set_location()">Location: {{location_name}}</a>
+			</p>
+			<p>
+				<a ng-href="#" class="btn split {{model.metric == 'C' ? 'active' : ''}}" ng-click="set_metric('C')">Celsius</a>
+				<a ng-href="#" class="btn split {{model.metric == 'F' ? 'active' : ''}}" ng-click="set_metric('F')">Fahrenheit</a>
+			</p>
+		</div>
+	</div>
+	<div class="modal-overlay"></div>
 </div>

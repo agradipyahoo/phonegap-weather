@@ -1,50 +1,154 @@
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/Weather.ap_ \
- : /Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-hdpi/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-land-hdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-land-ldpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-land-mdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-land-xhdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-ldpi/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-mdpi/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-port-hdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-port-ldpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-port-mdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-port-xhdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/drawable-xhdpi/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/values/strings.xml \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/res/xml/config.xml \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-hdpi/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-land-xhdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-ldpi/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-mdpi/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-port-hdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-port-ldpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-port-mdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-port-xhdpi/screen.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/_where-is-www.txt \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/config.xml \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/cordova.js \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/cordova_plugins.js \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/css \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/img \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/index.html \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/js \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/views \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/css/style.css \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/img/icon-57-2x.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/img/icon-57.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/img/icon-72-2x.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/img/icon-72.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/img/icon.png \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/js/angular-route.min.js \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/js/angular.min.js \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/js/app.js \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/assets/www/views/weather.html \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/AndroidManifest.xml \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/Weather.ap_ \
+ : /Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-hdpi/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-land-hdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-land-ldpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-land-mdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-land-xhdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-ldpi/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-mdpi/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-port-hdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-port-ldpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-port-mdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-port-xhdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/values/strings.xml \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/res/xml/config.xml \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-land-xhdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-port-hdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-port-ldpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-port-mdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-port-xhdpi/screen.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/_where-is-www.txt \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/config.xml \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/cordova.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/cordova_plugins.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/css \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/index.html \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/views \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/css/style.css \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/css/style.less \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/gear.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/icon.png \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/loading.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/reload.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloud.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzle.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleMoon.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleMoonAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleMoonAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleMoonFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleSun.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleSunAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleSunAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudDrizzleSunFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFog.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogMoon.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogMoonAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogMoonAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogMoonFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogSun.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogSunAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogSunAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudFogSunFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudHailAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudHailAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudHailAltMoon.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudHailAltMoonFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudHailAltSun.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudHailAltSunFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudLightning.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudLightningFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudLightningMoon.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudLightningMoonFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudLightningSun.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudLightningSunFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudMoon.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudMoonFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRain.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainMoon.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainMoonAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainMoonAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainMoonFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainSun.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainSunAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainSunAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudRainSunFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnow.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowMoon.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowMoonAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowMoonAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowMoonFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowSun.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowSunAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowSunAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSnowSunFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSun.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/cloudSunFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/moon.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/moonFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/moonPhase.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/moonPhaseFull.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/snowflake.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/snowflakeFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sun.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunrise.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunriseAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunriseAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunriseFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunset.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunsetAlt.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunsetAltFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/sunsetFill.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/thermometer0.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/thermometer100.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/thermometer25.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/thermometer50.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/thermometer75.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/tornado.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/img/weather/wind.svg \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/js/angular-local-storage.min.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/js/angular-route.min.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/js/angular-touch.min.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/js/angular.min.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/js/app.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.camera \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.dialogs \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.camera/www \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraConstants.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/notification.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android/notification.js \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/assets/www/views/weather.html \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/AndroidManifest.xml \

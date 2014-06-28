@@ -1,9 +1,30 @@
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/classes.dex : \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/BuildConfig.class \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R$attr.class \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R$drawable.class \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R$string.class \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R$xml.class \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R.class \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/Weather.class \
-/Users/fatih/iOS Apps/phonegap-weather/platforms/android/ant-build/dexedLibs/classes-6f90499d948ac06603958bd2cc455097.jar \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes.dex : \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/BuildConfig.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R$attr.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R$drawable.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R$string.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R$xml.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/R.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/com/phonegap/weather/Weather.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/camera/CameraLauncher.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/camera/ExifHelper.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/camera/FileHelper.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$1$1.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$1$2.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$1.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2$1.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2$2.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2$3.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2$4.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3$1.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3$2.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3$3.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3$4.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$4$1.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$4.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$5$1.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$5.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification.class \
+/Users/fatih/MobileApps/phonegap-weather/platforms/android/ant-build/dexedLibs/classes-48b7ecd88a71f910a21aec9b664eee70.jar \
